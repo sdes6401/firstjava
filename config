@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/sdes6401/ds0921.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	email = C108156140@nkust.edu.tw
+	name = sdes6401
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
